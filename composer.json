@@ -1,0 +1,19 @@
+{
+    "name": "biz/diplom-ver1",
+    "description": "diplom ver1 ifmo dev",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Biz",
+            "email": "n3bizzz@gmial.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Biz\\Diplom\\": "src/"
+        }
+    }
+}
